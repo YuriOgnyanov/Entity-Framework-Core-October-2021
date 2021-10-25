@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\yurio\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\yurio\\.nuget\\packages"
+    ]
+  }
+}
